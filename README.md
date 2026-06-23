@@ -21,7 +21,9 @@
 <table align="center" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse;">
   <tr>
     <!-- TEXTO IZQUIERDA -->
-    <td>
+    <td style="border: none !important;">
+
+
 
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C#
