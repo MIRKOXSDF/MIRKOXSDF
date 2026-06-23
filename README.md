@@ -71,58 +71,6 @@
 </table>
 
 
-
-
-
-
-
-<!--h1 without bottom border-->
-
-<div id="user-content-toc">
-
-  <ul align="center">
-
-    <summary><h2 style="display: inline-block">Tecnologias que manejo</h2></summary>
-
-  </ul>
-
-</div>
-
-
-
-<p align="center">
-
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
-
-  </a>
-
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48"/>
-
-</p>
-
-
-
-<!--horizontal divider(gradiant)-->
-
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</p>
-
-este es mi codigo quiro quitar esa lineas del tablas
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que manejo</h2></summary>
-  </ul>
-</div>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
