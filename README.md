@@ -19,9 +19,9 @@
   </ul>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
-</p>
+ <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
+  </td>
 
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C#
