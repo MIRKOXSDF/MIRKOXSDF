@@ -41,16 +41,15 @@
     <summary><h2 style="display: inline-block">Tecnologias que manejo</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
   </a>
 
-  <!-- Maya icon manual -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya.svg](https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/autodesk-maya.svg" width="48" height="48"/>
-</p>       
-<!--- stats (end) -->
+  <img src="https://cdn.simpleicons.org/autodeskmaya" width="48" height="48"/>
+</p>
 
 
 
