@@ -51,7 +51,7 @@
 <table align="center">
 <tr border="none">
 
-<td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td>
+<td width="50%" align="center"> <img align="center" src="[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10](https://camo.githubusercontent.com/7939c42e0634932562be6b074498b25e1a942053d4cdfe51ed008f346fef3cf6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a72612673746174735f666f726d61743d6279746573)"/> </td>
 </tr>
 </table>
 <!--- trophy (start) -->
