@@ -48,7 +48,7 @@
   </a>
 
   <!-- Maya icon manual -->
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya.svg" width="48" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya.svg](https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/autodesk-maya.svg" width="48" height="48"/>
 </p>       
 <!--- stats (end) -->
 
