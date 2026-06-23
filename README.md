@@ -79,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sql,discord,github,maya,unity,supabase,tes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,maya,unity,supabase,tes&perline=14" />
   </a>
 </p>
 
@@ -94,7 +94,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
