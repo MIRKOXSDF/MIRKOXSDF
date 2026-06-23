@@ -16,10 +16,9 @@
     <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-       width="350" />
-</td>>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C #
