@@ -31,83 +31,32 @@
 
 
 
-<!--h1 without bottom border-->
-
-<div id="user-content-toc">
-
-  <ul align="center">
-
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mirko lima</h1></summary>
-
-  </ul>
-
-</div>
-
-
-
-<!--h2 without bottom border-->
-
-<div id="user-content-toc">
-
-  <ul align="center">
-
-    <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
-
-  </ul>
-
-</div>
 
 <table align="center", border="0">
 
   <tr>
 
-    <!-- TEXTO IZQUIERDA -->
-
     <td>
-
-
-
-
-
-
 
 <!--Intro start-->
 
 - 🎮 Programador de juegos especializada en Unity y C#
 
-
-
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.
-
-
 
 - 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.
 
-
-
 - 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.
-
-
 
 - 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
 
-
-
 - 📬 Contacto: mirko06660@gmail.com
 
-
-
 - 📬 Linkedin: www.linkedin.com/in/mirko-lima-esenarro-339853288
-
-
-
+  
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 
-
-
     </td>
-
-
 
     <!-- GIF DERECHA -->
 
