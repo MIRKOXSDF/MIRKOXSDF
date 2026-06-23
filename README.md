@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
   </a>
 
-  <img src="https://cdn.simpleicons.org/autodeskmaya" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48"/>
 </p>
 
 
