@@ -1,7 +1,9 @@
 
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -16,13 +18,14 @@
     <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
 </p>
 
 <!--Intro start-->
-- 🎮 Programador de juegos especializada en Unity y C #
-  
+- 🎮 Programador de juegos especializada en Unity y C#
+
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.
 
 - 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.
@@ -32,18 +35,17 @@
 - 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
 
 - 📬 Contacto: mirko06660@gmail.com
-  
+
 - 📬 Linkedin: www.linkedin.com/in/mirko-lima-esenarro-339853288
-  
+
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
-  
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologias que manejo</h2></summary>
   </ul>
 </div>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,12 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48"/>
 </p>
 
-
-
-
-
-
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
