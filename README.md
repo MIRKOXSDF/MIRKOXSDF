@@ -27,19 +27,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🎮 Programador de juegos especializada en Unity y C #
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 Actualmente desarrollo videojuegos 3D, implementando mecánicas de gameplay, IA, UI, cinemáticas y sistemas interactivos.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 Aprendiendo continuamente sobre shaders, optimización, networking y herramientas para mejorar la calidad y rendimiento de los juegos.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 🎨 Como rol secundario me gusta modelar en 3D 
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📝 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Contacto: tucorreo@ejemplo.com
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 <!--Intro end-->
 
 
