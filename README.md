@@ -18,7 +18,7 @@
     <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table <table style="border: none; border-collapse: collapse;" align="center">>
   <tr>
     <!-- TEXTO IZQUIERDA -->
     <td>
@@ -44,7 +44,7 @@
 
     <!-- GIF DERECHA -->
    <td align="right">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="390"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
     </td>
   </tr>
 </table>
