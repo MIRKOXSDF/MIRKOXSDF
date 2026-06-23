@@ -28,18 +28,19 @@
 
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C #
+  
+- 🎨 Como rol secundario me gusta modelar en 3D.
 
-- 🔭 Actualmente desarrollo videojuegos 3D, implementando mecánicas de gameplay, IA, UI, cinemáticas y sistemas interactivos.
+- 🔭 Actualmente me encuentro desarrollando un videojuego movil 2D.
 
 - 🌱 Aprendiendo continuamente sobre shaders, optimización, networking y herramientas para mejorar la calidad y rendimiento de los juegos.
 
-- 🎨 Como rol secundario me gusta modelar en 3D 
-
 - 📝 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
 
-- 📫 Contacto: tucorreo@ejemplo.com
+- 📫 Contacto: mirko06660o@gmail.com
 
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
+- 
 <!--Intro end-->
 
 
