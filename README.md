@@ -43,13 +43,8 @@
 </div>
 <!--tech stack icons-->
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Cambiado 'maya' por 'blender' y 'tes' por 'cs' -->
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://skillicons.dev"> 
+<img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,maya,unity,supabase,tes&perline=14" /> </a></p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
