@@ -44,7 +44,7 @@
 
     <!-- GIF DERECHA -->
    <td align="right">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420"/>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="390"/>
     </td>
   </tr>
 </table>
