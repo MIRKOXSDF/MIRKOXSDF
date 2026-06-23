@@ -18,9 +18,10 @@
     <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-
-  <div style="flex: 1;">
+<table width="100%" style="border: none;">
+  <tr>
+    
+    <td width="60%" style="vertical-align: top; border: none;">
 
 - 🎮 Programador de juegos especializado en Unity y C#
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.
@@ -31,13 +32,14 @@
 - 📬 Linkedin: www.linkedin.com/in/mirko-lima-esenarro-339853288
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 
-  </div>
+    </td>
 
-  <div>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
-  </div>
+    <td width="40%" align="right" style="border: none; vertical-align: top;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+    </td>
 
-</div>
+  </tr>
+</table>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
