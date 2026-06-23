@@ -21,22 +21,14 @@
 
 
 
-<!--horizontal divider(gradiant)-->
 
-<p align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</p>
 
 
 
 
 <table align="center", border="0">
 
-  <tr>
 
-    <td>
 
 <!--Intro start-->
 
@@ -56,16 +48,16 @@
   
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 
-    </td>
+  
 
     <!-- GIF DERECHA -->
 
-   <td align="right">
-
+<table>
+  <tr>
+    <td align="right">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
-
     </td>
-
+  </tr>
 </table>
 
 
