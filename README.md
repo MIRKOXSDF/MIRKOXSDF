@@ -19,9 +19,7 @@
   </ul>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
-</p>
+
 
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C#
@@ -39,7 +37,9 @@
 - 📬 Linkedin: www.linkedin.com/in/mirko-lima-esenarro-339853288
 
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
+</p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
