@@ -10,18 +10,10 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
 
@@ -29,18 +21,18 @@
 <!--Intro start-->
 - 🎮 Programador de juegos especializada en Unity y C #
   
-- 🎨 Como rol secundario me gusta modelar en 3D.
+- 🎨 Como habilidad complementaria, disfruto del modelado 3D.
 
-- 🔭 Actualmente me encuentro desarrollando un videojuego movil 2D.
+- 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.
 
-- 🌱 Aprendiendo continuamente sobre shaders, optimización, networking y herramientas para mejorar la calidad y rendimiento de los juegos.
+- 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.
 
-- 📝 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
+- 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.
 
-- 📫 Contacto: mirko06660o@gmail.com
+- 📬 Contacto: mirko06660@gmail.com
 
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
-- 
+  
 <!--Intro end-->
 
 
