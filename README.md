@@ -43,8 +43,8 @@
     </td>
 
     <!-- GIF DERECHA -->
-    <td align="right">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
+   <td align="right">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420"/>
     </td>
   </tr>
 </table>
