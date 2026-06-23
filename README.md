@@ -42,13 +42,14 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center"> <a href="https://skillicons.dev"> 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,C#,unity,supabase,tes&perline=14" /> </a></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
+  </a>
 
-
-
-
-</p>        
+  <!-- Maya icon manual -->
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya.svg" width="48" height="48"/>
+</p>       
 <!--- stats (end) -->
 
 
