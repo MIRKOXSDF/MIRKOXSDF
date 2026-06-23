@@ -18,7 +18,7 @@
     <summary><h2 style="display: inline-block">"La confusión es parte del proceso de aprender y crear."</h2></summary>
   </ul>
 </div>
-<table <table style="border: none; border-collapse: collapse;" align="center">>
+<table <table style="border: none; border-collapse: collapse;" align="center">
   <tr>
     <!-- TEXTO IZQUIERDA -->
     <td>
