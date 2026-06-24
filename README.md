@@ -18,7 +18,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
 
-- 🎮 Programador de juegos especializado en Unity y C#<br>
+- 🎮 Programador de juegos especializado en Unity y C#.<br>
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.<br>
 - 📱  Actualmente me encuentro desarrollando un videojuego móvil 2D.<br>
 - 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.<br>
