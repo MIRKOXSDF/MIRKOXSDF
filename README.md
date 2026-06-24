@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <p style="font-size:60px; font-weight:bold;">
+  <p style="font-size:1200px; font-weight:bold;">
     Hi 👋, Soy Mirko Lima
   </p>
 </div>
