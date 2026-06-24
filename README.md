@@ -30,7 +30,7 @@
 <tr> <!-- TEXTO IZQUIERDA --> 
   <td> 
   <!--Intro start--> 
-    - 🎮 Programador de juegos especializada en Unity y C# 
+    - 🎮 Programador de juegos especializada en Unity y C#. 
     
     - 🎨 Como habilidad complementaria, disfruto del modelado 3D. 
     
@@ -45,9 +45,13 @@
     - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos. 
 
     
-  </td> <!-- GIF DERECHA --> <td align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+  </td>
+  </tr> 
+  <!-- GIF DERECHA --> 
+  <td align="right"> 
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
   </td> 
-</tr> 
+
 </table>
 
 <p align="center">
