@@ -32,7 +32,7 @@
 <div align="center">
 
 <h3>Tecnologías que manejo</h3>
-
+<br>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48"/>
