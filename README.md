@@ -5,7 +5,9 @@
 
 
 <div align="center">
-  <h1>Hi 👋,Soy Mirko Lima</h1>
+  <p style="font-size:60px; font-weight:bold;">
+    Hi 👋, Soy Mirko Lima
+  </p>
 </div>
 
 <h3 align="center">
