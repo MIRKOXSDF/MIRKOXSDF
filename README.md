@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1>Tecnologías que manejo</h1>
+<h3>Tecnologías que manejo</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
