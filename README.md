@@ -4,9 +4,9 @@
 </p>
 
 
-<h1 align="center">
+<div align="center">
   Hi 👋,Soy Mirko Lima
-</h1>
+</div>
 
 <h3 align="center">
   "La confusión es parte del proceso de aprender y crear."
