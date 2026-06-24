@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋,Yo soy<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Mirko Lima</a>
+  Hi 👋,Soy<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Mirko Lima</a>
 </h1>
 
 <h3 align="center">
@@ -11,19 +11,12 @@
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
 
 - 🎮 Programador de juegos especializado en Unity y C#<br><br>
-
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.<br><br>
-
 - 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.<br><br>
-
 - 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.<br><br>
-
 - 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.<br><br>
-
 - 📬 Contacto: mirko06660@gmail.com<br><br>
-
 - 📬 LinkedIn: www.linkedin.com/in/mirko-lima-esenarro-339853288<br><br>
-
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 
 <br><br>
