@@ -18,24 +18,21 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="_blank">Griffyn Robotech Private Limited</a>
+- 🎮 Programador de juegos especializado en Unity y C#<br><br>
 
-- 🌱 I’m currently working on Mobile App (React-Native)
+- 🎨 Como habilidad complementaria, disfruto del modelado 3D.<br><br>
 
-- 🤝 I’m available for freelancing.
+- 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.<br><br>
 
-- 🌱 I’m currently learning Swift & SwiftUI  
-  <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="_blank">100DaysOfSwift</a>
+- 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.<br><br>
 
-- 📝 I regularly write articles on  
-  <a href="https://dev.to/100rabhcsmc" target="_blank">dev.to</a>
+- 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.<br><br>
 
-- 💬 Ask me about **ReactJS & React-Native**
+- 📬 Contacto: mirko06660@gmail.com<br><br>
 
-- 📫 How to reach me: **saurabhchavan052@gmail.com**
+- 📬 LinkedIn: www.linkedin.com/in/mirko-lima-esenarro-339853288<br><br>
 
-- 📄 Know about my experiences  
-  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank">Resume</a>
+- 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
 
 <br><br>
 
