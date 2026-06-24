@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h3 style="font-size:190px;">Hi 👋,Soy Mirko Lima</h3>
+  <h1>Hi 👋,Soy Mirko Lima</h1>
 </div>
 
 <h3 align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h3 style="font-size:120px;">Tecnologías que manejo</h3>
+<h1>Tecnologías que manejo</h1>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mysql,discord,github,cs,unity,supabase&perline=14" />
