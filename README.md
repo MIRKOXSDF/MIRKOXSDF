@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mirko Lima</a></h1>
 
-<div >
+<div align="center">
   <h2>"La confusión es parte del proceso de aprender y crear."</h2>
 </div>
 
-<a target="_blank" align="center">
+<a  align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
