@@ -31,10 +31,6 @@
 
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48"/>
-</p>
-
 </div>
 
 <br>
