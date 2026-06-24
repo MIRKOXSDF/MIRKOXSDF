@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  Hi 👋,Soy Mirko Lima
+  <h1>Hi 👋,Soy Mirko Lima</h1>
 </div>
 
 <h3 align="center">
