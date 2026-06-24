@@ -19,7 +19,7 @@
   <tr>
 
     <!-- TEXTO IZQUIERDA -->
-    <td valign="top">
+<td valign="top">
 
 - 🎮 Programador de juegos especializado en Unity y C#
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.
@@ -29,8 +29,7 @@
 - 📬 Contacto: mirko06660@gmail.com
 - 📬 LinkedIn: www.linkedin.com/in/mirko-lima-esenarro-339853288
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
-
-    </td>
+</td>
 
     <!-- GIF DERECHA -->
     <td align="right" valign="top">
