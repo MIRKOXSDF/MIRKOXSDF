@@ -6,7 +6,7 @@
   "La confusión es parte del proceso de aprender y crear."
 </h3>
 
-
+<br><br>
 
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
 
