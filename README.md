@@ -20,9 +20,9 @@
 
 - 🎮 Programador de juegos especializado en Unity y C#<br>
 - 🎨 Como habilidad complementaria, disfruto del modelado 3D.<br>
-- 📱 Actualmente me encuentro desarrollando un videojuego móvil 2D.<br>
+- 📱  Actualmente me encuentro desarrollando un videojuego móvil 2D.<br>
 - 🌱 Aprendiendo continuamente sobre shaders, optimización, VFX y herramientas para mejorar la calidad y el rendimiento de los videojuegos.<br>
-- 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub.<br>
+- 📂 Comparto algunos de mis proyectos y experimentos en mi portafolio y GitHub. https://mirkoxsdf.github.io/Portafolio/ <br>
 - 📬 Contacto: mirko06660@gmail.com<br
 - 📬 LinkedIn: www.linkedin.com/in/mirko-lima-esenarro-339853288<br>
 - 🚀 Siempre buscando crear experiencias únicas y seguir creciendo como desarrollador de videojuegos.
