@@ -1,20 +1,12 @@
 <h1 align="center">
-  Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Saurabh</a>
+  Hi 👋,Yo soy<a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Mirko Lima</a>
 </h1>
 
 <h3 align="center">
-  A passionate Mobile App developer from Pune India 🇮🇳
+  "La confusión es parte del proceso de aprender y crear."
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-</p>
 
-<p align="left">
-  <a href="https://twitter.com/100rabhcsmc" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />
-  </a>
-</p>
 
 <img align="right" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF">
 
