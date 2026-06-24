@@ -5,9 +5,9 @@
 
 
 <div align="center">
-  <p style="font-size:1200px; font-weight:bold;">
+  <h1>
     Hi 👋, Soy Mirko Lima
-  </p>
+  </h1>
 </div>
 
 <h3 align="center">
