@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mirko Lima</a></h1>
 
-<div align="center">
+<div >
   <h2>"La confusión es parte del proceso de aprender y crear."</h2>
 </div>
 
